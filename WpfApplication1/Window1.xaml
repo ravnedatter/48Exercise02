@@ -1,0 +1,11 @@
+﻿<Window x:Class="WpfApplication1.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Window1" Height="300" Width="300">
+    <Grid>
+        <Button Content="Kill Bill" HorizontalAlignment="Left" Margin="64,44,0,0" VerticalAlignment="Top" Width="156" Height="40"/>
+        <Button Content="New To Do Item" HorizontalAlignment="Left" Margin="86,238,0,0" VerticalAlignment="Top" Width="113"/>
+        <Label Content="To Do Items" HorizontalAlignment="Left" Margin="99,6,0,0" VerticalAlignment="Top" Height="33" Width="85"/>
+
+    </Grid>
+</Window>
