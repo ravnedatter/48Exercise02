@@ -10,7 +10,7 @@
         <Label Content="Description" HorizontalAlignment="Left" Margin="101,124,0,0" VerticalAlignment="Top" Width="85"/>
         <Label Content="Deadline" HorizontalAlignment="Left" Margin="101,213,0,0" VerticalAlignment="Top" Height="32" Width="71"/>
         <TextBox HorizontalAlignment="Left" Height="53" Margin="101,155,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
-        <Label Content="New To Do Item" HorizontalAlignment="Left" Margin="186,10,0,0" VerticalAlignment="Top" Height="27" Width="137"/>
+        <Label Content="New To Do Item !" HorizontalAlignment="Left" Margin="186,10,0,0" VerticalAlignment="Top" Height="27" Width="137"/>
 
     </Grid>
 </Window>
