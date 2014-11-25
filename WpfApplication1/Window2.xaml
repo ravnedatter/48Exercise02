@@ -8,7 +8,7 @@
         <CheckBox Content="buy flyswatter" HorizontalAlignment="Left" Margin="75,60,0,0" VerticalAlignment="Top" Height="21" Width="104"/>
         <CheckBox Content="Kill the fly" HorizontalAlignment="Left" Margin="75,86,0,0" VerticalAlignment="Top" Height="21" Width="104"/>
         <TextBox HorizontalAlignment="Left" Height="23" Margin="75,223,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="119"/>
-        <Label Content="Tilføj task" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="75,197,0,0"/>
+        <Label Content="Add Task" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="75,197,0,0"/>
 
     </Grid>
 </Window>
